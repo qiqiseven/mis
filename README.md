@@ -3,3 +3,7 @@
 ![image](https://github.com/qiqiseven/mis/blob/master/a2.PNG)
 ##数据库ER图：
 ![image](https://github.com/qiqiseven/mis/blob/master/er图.PNG)
+##原型图
+![image](https://github.com/qiqiseven/mis/blob/master/1.PNG)
+![image](https://github.com/qiqiseven/mis/blob/master/2.PNG)
+![image](https://github.com/qiqiseven/mis/blob/master/3.PNG)
